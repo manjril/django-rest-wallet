@@ -1,0 +1,16 @@
+.idea
+
+*.pyc
+
+/fixtures/*
+
+
+/*/fixtures/*
+
+/public/*
+
+/temp
+
+.DS_Store
+
+env
